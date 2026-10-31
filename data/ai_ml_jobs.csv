@@ -1,0 +1,201 @@
+job_title,company,location,experience_level,employment_type,salary_min,salary_max,salary_currency,required_skills,posted_date
+Data Scientist,AsterByte Technologies,"Bengaluru, Karnataka",Entry,Full-time,4,9,INR,Python; SQL; Pandas; Scikit-learn,2026-03-01
+Machine Learning Engineer,CloudHarbor Tech,"Jaipur, Rajasthan",Senior,Full-time,23,35,INR,Python; NLP; spaCy; Hugging Face,2026-03-14
+AI Engineer,SilverOak Consulting,"Pune, Maharashtra",Junior,Internship,13,32,INR,Python; SQL; Pandas; Scikit-learn,2026-03-27
+Data Analyst,Northstar Analytics,"Coimbatore, Tamil Nadu",Lead,Full-time,30,40,INR,Python; NLP; spaCy; Hugging Face,2026-04-09
+NLP Engineer,PrismPeak Data,"Chennai, Tamil Nadu",Mid,Contract,15,32,INR,Python; SQL; Pandas; Scikit-learn,2026-04-22
+Computer Vision Engineer,Kaveri Data Systems,"Chandigarh, Chandigarh",Entry,Full-time,10,18,INR,Python; NLP; spaCy; Hugging Face,2026-05-05
+MLOps Engineer,BlueKite AI Labs,"Gurugram, Haryana",Senior,Full-time,20,35,INR,Python; SQL; Pandas; Scikit-learn,2026-05-18
+Deep Learning Engineer,CedarWave Innovations,"Nagpur, Maharashtra",Junior,Internship,10,16,INR,Python; NLP; spaCy; Hugging Face,2026-05-31
+Generative AI Engineer,Meridian ML Works,"Kolkata, West Bengal",Lead,Full-time,36,49,INR,Python; SQL; Pandas; Scikit-learn,2026-06-13
+Business Intelligence Analyst,MangoTree Digital,"Bhubaneswar, Odisha",Mid,Contract,12,32,INR,Python; NLP; spaCy; Hugging Face,2026-06-26
+Research Scientist,QuantumLeaf Solutions,"Jaipur, Rajasthan",Entry,Full-time,7,18,INR,Python; SQL; Pandas; Scikit-learn,2026-07-09
+Data Engineer,RedBrick Computing,"Pune, Maharashtra",Senior,Full-time,26,44,INR,Python; NLP; spaCy; Hugging Face,2026-07-22
+Applied Scientist,VertexNova Systems,"Coimbatore, Tamil Nadu",Junior,Internship,7,16,INR,Python; SQL; Pandas; Scikit-learn,2026-08-04
+AI/ML Intern,OrbitStack Technologies,"Chennai, Tamil Nadu",Lead,Full-time,33,49,INR,Python; NLP; spaCy; Hugging Face,2026-08-17
+Analytics Engineer,AuroraEdge Digital,"Chandigarh, Chandigarh",Mid,Contract,18,25,INR,Python; SQL; Pandas; Scikit-learn,2026-08-30
+Prompt Engineer,BrightLoop Software,"Gurugram, Haryana",Entry,Full-time,4,18,INR,Python; NLP; spaCy; Hugging Face,2026-09-12
+ML Research Engineer,PixelRiver AI,"Nagpur, Maharashtra",Senior,Contract,23,28,INR,Python; SQL; Pandas; Scikit-learn,2026-09-25
+Big Data Engineer,SaffronScale Technologies,"Kolkata, West Bengal",Junior,Full-time,13,25,INR,Python; NLP; spaCy; Hugging Face,2026-10-08
+Recommendation Systems Engineer,IndusMind AI,"Bhubaneswar, Odisha",Lead,Full-time,30,49,INR,Python; SQL; Pandas; Scikit-learn,2026-10-21
+Robotics Engineer,NimbusForge Labs,"Kochi, Kerala",Mid,Internship,15,25,INR,Python; NLP; spaCy; Hugging Face,2026-03-04
+Data Scientist,Northstar Analytics,"Pune, Maharashtra",Junior,Full-time,13,30,INR,Python; SQL; Pandas; Scikit-learn,2026-03-17
+Machine Learning Engineer,PrismPeak Data,"Coimbatore, Tamil Nadu",Lead,Contract,30,38,INR,Python; NLP; spaCy; Hugging Face,2026-03-30
+AI Engineer,Kaveri Data Systems,"Chennai, Tamil Nadu",Mid,Full-time,15,30,INR,Python; SQL; Pandas; Scikit-learn,2026-04-12
+Data Analyst,BlueKite AI Labs,"Chandigarh, Chandigarh",Entry,Full-time,10,16,INR,Python; NLP; spaCy; Hugging Face,2026-04-25
+NLP Engineer,CedarWave Innovations,"Gurugram, Haryana",Senior,Internship,20,33,INR,Python; SQL; Pandas; Scikit-learn,2026-05-08
+Computer Vision Engineer,Meridian ML Works,"Nagpur, Maharashtra",Junior,Full-time,10,30,INR,Python; NLP; spaCy; Hugging Face,2026-05-21
+MLOps Engineer,MangoTree Digital,"Kolkata, West Bengal",Lead,Contract,36,47,INR,Python; SQL; Pandas; Scikit-learn,2026-06-03
+Deep Learning Engineer,QuantumLeaf Solutions,"Bhubaneswar, Odisha",Mid,Full-time,12,30,INR,Python; NLP; spaCy; Hugging Face,2026-06-16
+Generative AI Engineer,RedBrick Computing,"Kochi, Kerala",Entry,Full-time,7,16,INR,Python; SQL; Pandas; Scikit-learn,2026-06-29
+Business Intelligence Analyst,VertexNova Systems,"Hyderabad, Telangana",Senior,Internship,26,42,INR,Python; NLP; spaCy; Hugging Face,2026-07-12
+Research Scientist,OrbitStack Technologies,"Coimbatore, Tamil Nadu",Junior,Full-time,7,14,INR,Python; SQL; Pandas; Scikit-learn,2026-07-25
+Data Engineer,AuroraEdge Digital,"Chennai, Tamil Nadu",Lead,Internship,33,47,INR,Python; NLP; spaCy; Hugging Face,2026-08-07
+Applied Scientist,BrightLoop Software,"Chandigarh, Chandigarh",Mid,Full-time,18,23,INR,Python; SQL; Pandas; Scikit-learn,2026-08-20
+AI/ML Intern,PixelRiver AI,"Gurugram, Haryana",Entry,Contract,4,16,INR,Python; NLP; spaCy; Hugging Face,2026-09-02
+Analytics Engineer,SaffronScale Technologies,"Nagpur, Maharashtra",Senior,Full-time,23,42,INR,Python; SQL; Pandas; Scikit-learn,2026-09-15
+Prompt Engineer,IndusMind AI,"Kolkata, West Bengal",Junior,Full-time,13,23,INR,Python; NLP; spaCy; Hugging Face,2026-09-28
+ML Research Engineer,NimbusForge Labs,"Bhubaneswar, Odisha",Lead,Internship,30,47,INR,Python; SQL; Pandas; Scikit-learn,2026-10-11
+Big Data Engineer,AsterByte Technologies,"Kochi, Kerala",Mid,Full-time,15,23,INR,Python; NLP; spaCy; Hugging Face,2026-10-24
+Recommendation Systems Engineer,CloudHarbor Tech,"Hyderabad, Telangana",Entry,Contract,10,25,INR,Python; SQL; Pandas; Scikit-learn,2026-03-07
+Robotics Engineer,SilverOak Consulting,"Indore, Madhya Pradesh",Senior,Full-time,20,26,INR,Python; NLP; spaCy; Hugging Face,2026-03-20
+Data Scientist,BlueKite AI Labs,"Chennai, Tamil Nadu",Mid,Full-time,15,28,INR,Python; SQL; Pandas; Scikit-learn,2026-04-02
+Machine Learning Engineer,CedarWave Innovations,"Chandigarh, Chandigarh",Entry,Internship,10,30,INR,Python; NLP; spaCy; Hugging Face,2026-04-15
+AI Engineer,Meridian ML Works,"Gurugram, Haryana",Senior,Full-time,20,31,INR,Python; SQL; Pandas; Scikit-learn,2026-04-28
+Data Analyst,MangoTree Digital,"Nagpur, Maharashtra",Junior,Contract,10,28,INR,Python; NLP; spaCy; Hugging Face,2026-05-11
+NLP Engineer,QuantumLeaf Solutions,"Kolkata, West Bengal",Lead,Full-time,36,45,INR,Python; SQL; Pandas; Scikit-learn,2026-05-24
+Computer Vision Engineer,RedBrick Computing,"Bhubaneswar, Odisha",Mid,Contract,12,28,INR,Python; NLP; spaCy; Hugging Face,2026-06-06
+MLOps Engineer,VertexNova Systems,"Kochi, Kerala",Entry,Full-time,7,14,INR,Python; SQL; Pandas; Scikit-learn,2026-06-19
+Deep Learning Engineer,OrbitStack Technologies,"Hyderabad, Telangana",Senior,Full-time,26,40,INR,Python; NLP; spaCy; Hugging Face,2026-07-02
+Generative AI Engineer,AuroraEdge Digital,"Indore, Madhya Pradesh",Junior,Internship,7,12,INR,Python; SQL; Pandas; Scikit-learn,2026-07-15
+Business Intelligence Analyst,BrightLoop Software,"Mumbai, Maharashtra",Lead,Full-time,33,45,INR,Python; NLP; spaCy; Hugging Face,2026-07-28
+Research Scientist,PixelRiver AI,"Chandigarh, Chandigarh",Mid,Contract,18,37,INR,Python; SQL; Pandas; Scikit-learn,2026-08-10
+Data Engineer,SaffronScale Technologies,"Gurugram, Haryana",Entry,Full-time,4,14,INR,Python; NLP; spaCy; Hugging Face,2026-08-23
+Applied Scientist,IndusMind AI,"Nagpur, Maharashtra",Senior,Full-time,23,40,INR,Python; SQL; Pandas; Scikit-learn,2026-09-05
+AI/ML Intern,NimbusForge Labs,"Kolkata, West Bengal",Junior,Internship,13,21,INR,Python; NLP; spaCy; Hugging Face,2026-09-18
+Analytics Engineer,AsterByte Technologies,"Bhubaneswar, Odisha",Lead,Full-time,30,45,INR,Python; SQL; Pandas; Scikit-learn,2026-10-01
+Prompt Engineer,CloudHarbor Tech,"Kochi, Kerala",Mid,Contract,15,21,INR,Python; NLP; spaCy; Hugging Face,2026-10-14
+ML Research Engineer,SilverOak Consulting,"Hyderabad, Telangana",Entry,Full-time,10,23,INR,Python; SQL; Pandas; Scikit-learn,2026-10-27
+Big Data Engineer,Northstar Analytics,"Indore, Madhya Pradesh",Senior,Full-time,20,40,INR,Python; NLP; spaCy; Hugging Face,2026-03-10
+Recommendation Systems Engineer,PrismPeak Data,"Mumbai, Maharashtra",Junior,Internship,10,21,INR,Python; SQL; Pandas; Scikit-learn,2026-03-23
+Robotics Engineer,Kaveri Data Systems,"Thiruvananthapuram, Kerala",Lead,Full-time,36,54,INR,Python; NLP; spaCy; Hugging Face,2026-04-05
+Data Scientist,MangoTree Digital,"Gurugram, Haryana",Senior,Internship,20,29,INR,Python; SQL; Pandas; Scikit-learn,2026-04-18
+Machine Learning Engineer,QuantumLeaf Solutions,"Nagpur, Maharashtra",Junior,Full-time,10,26,INR,Python; NLP; spaCy; Hugging Face,2026-05-01
+AI Engineer,RedBrick Computing,"Kolkata, West Bengal",Lead,Contract,36,43,INR,Python; SQL; Pandas; Scikit-learn,2026-05-14
+Data Analyst,VertexNova Systems,"Bhubaneswar, Odisha",Mid,Full-time,12,26,INR,Python; NLP; spaCy; Hugging Face,2026-05-27
+NLP Engineer,OrbitStack Technologies,"Kochi, Kerala",Entry,Full-time,7,12,INR,Python; SQL; Pandas; Scikit-learn,2026-06-09
+Computer Vision Engineer,AuroraEdge Digital,"Hyderabad, Telangana",Senior,Internship,26,38,INR,Python; NLP; spaCy; Hugging Face,2026-06-22
+MLOps Engineer,BrightLoop Software,"Indore, Madhya Pradesh",Junior,Full-time,7,26,INR,Python; SQL; Pandas; Scikit-learn,2026-07-05
+Deep Learning Engineer,PixelRiver AI,"Mumbai, Maharashtra",Lead,Contract,33,43,INR,Python; NLP; spaCy; Hugging Face,2026-07-18
+Generative AI Engineer,SaffronScale Technologies,"Thiruvananthapuram, Kerala",Mid,Full-time,18,35,INR,Python; SQL; Pandas; Scikit-learn,2026-07-31
+Business Intelligence Analyst,IndusMind AI,"Delhi, Delhi",Entry,Full-time,4,12,INR,Python; NLP; spaCy; Hugging Face,2026-08-13
+Research Scientist,NimbusForge Labs,"Nagpur, Maharashtra",Senior,Internship,23,38,INR,Python; SQL; Pandas; Scikit-learn,2026-08-26
+Data Engineer,AsterByte Technologies,"Kolkata, West Bengal",Junior,Full-time,13,19,INR,Python; NLP; spaCy; Hugging Face,2026-09-08
+Applied Scientist,CloudHarbor Tech,"Bhubaneswar, Odisha",Lead,Contract,30,43,INR,Python; SQL; Pandas; Scikit-learn,2026-09-21
+AI/ML Intern,SilverOak Consulting,"Kochi, Kerala",Mid,Full-time,15,35,INR,Python; NLP; spaCy; Hugging Face,2026-10-04
+Analytics Engineer,Northstar Analytics,"Hyderabad, Telangana",Entry,Full-time,10,21,INR,Python; SQL; Pandas; Scikit-learn,2026-10-17
+Prompt Engineer,PrismPeak Data,"Indore, Madhya Pradesh",Senior,Full-time,20,38,INR,Python; NLP; spaCy; Hugging Face,2026-10-30
+ML Research Engineer,Kaveri Data Systems,"Mumbai, Maharashtra",Junior,Full-time,10,19,INR,Python; SQL; Pandas; Scikit-learn,2026-03-13
+Big Data Engineer,BlueKite AI Labs,"Thiruvananthapuram, Kerala",Lead,Internship,36,52,INR,Python; NLP; spaCy; Hugging Face,2026-03-26
+Recommendation Systems Engineer,CedarWave Innovations,"Delhi, Delhi",Mid,Full-time,12,19,INR,Python; SQL; Pandas; Scikit-learn,2026-04-08
+Robotics Engineer,Meridian ML Works,"Visakhapatnam, Andhra Pradesh",Entry,Contract,7,21,INR,Python; NLP; spaCy; Hugging Face,2026-04-21
+Data Scientist,VertexNova Systems,"Kolkata, West Bengal",Lead,Full-time,36,41,INR,Python; SQL; Pandas; Scikit-learn,2026-05-04
+Machine Learning Engineer,OrbitStack Technologies,"Bhubaneswar, Odisha",Mid,Full-time,12,24,INR,Python; NLP; spaCy; Hugging Face,2026-05-17
+AI Engineer,AuroraEdge Digital,"Kochi, Kerala",Entry,Internship,7,26,INR,Python; SQL; Pandas; Scikit-learn,2026-05-30
+Data Analyst,BrightLoop Software,"Hyderabad, Telangana",Senior,Full-time,26,36,INR,Python; NLP; spaCy; Hugging Face,2026-06-12
+NLP Engineer,PixelRiver AI,"Indore, Madhya Pradesh",Junior,Contract,7,24,INR,Python; SQL; Pandas; Scikit-learn,2026-06-25
+Computer Vision Engineer,SaffronScale Technologies,"Mumbai, Maharashtra",Lead,Full-time,33,41,INR,Python; NLP; spaCy; Hugging Face,2026-07-08
+MLOps Engineer,IndusMind AI,"Thiruvananthapuram, Kerala",Mid,Full-time,18,33,INR,Python; SQL; Pandas; Scikit-learn,2026-07-21
+Deep Learning Engineer,NimbusForge Labs,"Delhi, Delhi",Entry,Internship,4,10,INR,Python; NLP; spaCy; Hugging Face,2026-08-03
+Generative AI Engineer,AsterByte Technologies,"Visakhapatnam, Andhra Pradesh",Senior,Full-time,23,36,INR,Python; SQL; Pandas; Scikit-learn,2026-08-16
+Business Intelligence Analyst,CloudHarbor Tech,"Noida, Uttar Pradesh",Junior,Contract,13,33,INR,Python; NLP; spaCy; Hugging Face,2026-08-29
+Research Scientist,SilverOak Consulting,"Bhubaneswar, Odisha",Lead,Full-time,30,41,INR,Python; SQL; Pandas; Scikit-learn,2026-09-11
+Data Engineer,Northstar Analytics,"Kochi, Kerala",Mid,Contract,15,33,INR,Python; NLP; spaCy; Hugging Face,2026-09-24
+Applied Scientist,PrismPeak Data,"Hyderabad, Telangana",Entry,Full-time,10,19,INR,Python; SQL; Pandas; Scikit-learn,2026-10-07
+AI/ML Intern,Kaveri Data Systems,"Indore, Madhya Pradesh",Senior,Full-time,20,36,INR,Python; NLP; spaCy; Hugging Face,2026-10-20
+Analytics Engineer,BlueKite AI Labs,"Mumbai, Maharashtra",Junior,Internship,10,17,INR,Python; SQL; Pandas; Scikit-learn,2026-03-03
+Prompt Engineer,CedarWave Innovations,"Thiruvananthapuram, Kerala",Lead,Full-time,36,50,INR,Python; NLP; spaCy; Hugging Face,2026-03-16
+ML Research Engineer,Meridian ML Works,"Delhi, Delhi",Mid,Contract,12,17,INR,Python; SQL; Pandas; Scikit-learn,2026-03-29
+Big Data Engineer,MangoTree Digital,"Visakhapatnam, Andhra Pradesh",Entry,Full-time,7,19,INR,Python; NLP; spaCy; Hugging Face,2026-04-11
+Recommendation Systems Engineer,QuantumLeaf Solutions,"Noida, Uttar Pradesh",Senior,Full-time,26,45,INR,Python; SQL; Pandas; Scikit-learn,2026-04-24
+Robotics Engineer,RedBrick Computing,"Remote, India",Junior,Internship,7,17,INR,Python; NLP; spaCy; Hugging Face,2026-05-07
+Data Scientist,BrightLoop Software,"Kochi, Kerala",Entry,Full-time,7,24,INR,Python; SQL; Pandas; Scikit-learn,2026-05-20
+Machine Learning Engineer,PixelRiver AI,"Hyderabad, Telangana",Senior,Contract,26,34,INR,Python; NLP; spaCy; Hugging Face,2026-06-02
+AI Engineer,SaffronScale Technologies,"Indore, Madhya Pradesh",Junior,Full-time,7,22,INR,Python; SQL; Pandas; Scikit-learn,2026-06-15
+Data Analyst,IndusMind AI,"Mumbai, Maharashtra",Lead,Full-time,33,39,INR,Python; NLP; spaCy; Hugging Face,2026-06-28
+NLP Engineer,NimbusForge Labs,"Thiruvananthapuram, Kerala",Mid,Internship,18,31,INR,Python; SQL; Pandas; Scikit-learn,2026-07-11
+Computer Vision Engineer,AsterByte Technologies,"Delhi, Delhi",Entry,Full-time,4,24,INR,Python; NLP; spaCy; Hugging Face,2026-07-24
+MLOps Engineer,CloudHarbor Tech,"Visakhapatnam, Andhra Pradesh",Senior,Internship,23,34,INR,Python; SQL; Pandas; Scikit-learn,2026-08-06
+Deep Learning Engineer,SilverOak Consulting,"Noida, Uttar Pradesh",Junior,Full-time,13,31,INR,Python; NLP; spaCy; Hugging Face,2026-08-19
+Generative AI Engineer,Northstar Analytics,"Remote, India",Lead,Contract,30,39,INR,Python; SQL; Pandas; Scikit-learn,2026-09-01
+Business Intelligence Analyst,PrismPeak Data,"Ahmedabad, Gujarat",Mid,Full-time,15,31,INR,Python; NLP; spaCy; Hugging Face,2026-09-14
+Research Scientist,Kaveri Data Systems,"Hyderabad, Telangana",Entry,Full-time,10,17,INR,Python; SQL; Pandas; Scikit-learn,2026-09-27
+Data Engineer,BlueKite AI Labs,"Indore, Madhya Pradesh",Senior,Internship,20,34,INR,Python; NLP; spaCy; Hugging Face,2026-10-10
+Applied Scientist,CedarWave Innovations,"Mumbai, Maharashtra",Junior,Full-time,10,15,INR,Python; SQL; Pandas; Scikit-learn,2026-10-23
+AI/ML Intern,Meridian ML Works,"Thiruvananthapuram, Kerala",Lead,Contract,36,48,INR,Python; NLP; spaCy; Hugging Face,2026-03-06
+Analytics Engineer,MangoTree Digital,"Delhi, Delhi",Mid,Full-time,12,31,INR,Python; SQL; Pandas; Scikit-learn,2026-03-19
+Prompt Engineer,QuantumLeaf Solutions,"Visakhapatnam, Andhra Pradesh",Entry,Full-time,7,17,INR,Python; NLP; spaCy; Hugging Face,2026-04-01
+ML Research Engineer,RedBrick Computing,"Noida, Uttar Pradesh",Senior,Internship,26,43,INR,Python; SQL; Pandas; Scikit-learn,2026-04-14
+Big Data Engineer,VertexNova Systems,"Remote, India",Junior,Full-time,7,15,INR,Python; NLP; spaCy; Hugging Face,2026-04-27
+Recommendation Systems Engineer,OrbitStack Technologies,"Ahmedabad, Gujarat",Lead,Contract,33,48,INR,Python; SQL; Pandas; Scikit-learn,2026-05-10
+Robotics Engineer,AuroraEdge Digital,"Bengaluru, Karnataka",Mid,Full-time,18,24,INR,Python; NLP; spaCy; Hugging Face,2026-05-23
+Data Scientist,IndusMind AI,"Indore, Madhya Pradesh",Junior,Contract,7,20,INR,Python; SQL; Pandas; Scikit-learn,2026-06-05
+Machine Learning Engineer,NimbusForge Labs,"Mumbai, Maharashtra",Lead,Full-time,33,53,INR,Python; NLP; spaCy; Hugging Face,2026-06-18
+AI Engineer,AsterByte Technologies,"Thiruvananthapuram, Kerala",Mid,Full-time,18,29,INR,Python; SQL; Pandas; Scikit-learn,2026-07-01
+Data Analyst,CloudHarbor Tech,"Delhi, Delhi",Entry,Internship,4,22,INR,Python; NLP; spaCy; Hugging Face,2026-07-14
+NLP Engineer,SilverOak Consulting,"Visakhapatnam, Andhra Pradesh",Senior,Full-time,23,32,INR,Python; SQL; Pandas; Scikit-learn,2026-07-27
+Computer Vision Engineer,Northstar Analytics,"Noida, Uttar Pradesh",Junior,Contract,13,29,INR,Python; NLP; spaCy; Hugging Face,2026-08-09
+MLOps Engineer,PrismPeak Data,"Remote, India",Lead,Full-time,30,37,INR,Python; SQL; Pandas; Scikit-learn,2026-08-22
+Deep Learning Engineer,Kaveri Data Systems,"Ahmedabad, Gujarat",Mid,Full-time,15,29,INR,Python; NLP; spaCy; Hugging Face,2026-09-04
+Generative AI Engineer,BlueKite AI Labs,"Bengaluru, Karnataka",Entry,Internship,10,15,INR,Python; SQL; Pandas; Scikit-learn,2026-09-17
+Business Intelligence Analyst,CedarWave Innovations,"Jaipur, Rajasthan",Senior,Full-time,20,32,INR,Python; NLP; spaCy; Hugging Face,2026-09-30
+Research Scientist,Meridian ML Works,"Mumbai, Maharashtra",Junior,Contract,10,29,INR,Python; SQL; Pandas; Scikit-learn,2026-10-13
+Data Engineer,MangoTree Digital,"Thiruvananthapuram, Kerala",Lead,Full-time,36,46,INR,Python; NLP; spaCy; Hugging Face,2026-10-26
+Applied Scientist,QuantumLeaf Solutions,"Delhi, Delhi",Mid,Full-time,12,29,INR,Python; SQL; Pandas; Scikit-learn,2026-03-09
+AI/ML Intern,RedBrick Computing,"Visakhapatnam, Andhra Pradesh",Entry,Internship,7,15,INR,Python; NLP; spaCy; Hugging Face,2026-03-22
+Analytics Engineer,VertexNova Systems,"Noida, Uttar Pradesh",Senior,Full-time,26,41,INR,Python; SQL; Pandas; Scikit-learn,2026-04-04
+Prompt Engineer,OrbitStack Technologies,"Remote, India",Junior,Internship,7,13,INR,Python; NLP; spaCy; Hugging Face,2026-04-17
+ML Research Engineer,AuroraEdge Digital,"Ahmedabad, Gujarat",Lead,Full-time,33,46,INR,Python; SQL; Pandas; Scikit-learn,2026-04-30
+Big Data Engineer,BrightLoop Software,"Bengaluru, Karnataka",Mid,Contract,18,38,INR,Python; NLP; spaCy; Hugging Face,2026-05-13
+Recommendation Systems Engineer,PixelRiver AI,"Jaipur, Rajasthan",Entry,Full-time,4,15,INR,Python; SQL; Pandas; Scikit-learn,2026-05-26
+Robotics Engineer,SaffronScale Technologies,"Pune, Maharashtra",Senior,Full-time,23,41,INR,Python; NLP; spaCy; Hugging Face,2026-06-08
+Data Scientist,CloudHarbor Tech,"Thiruvananthapuram, Kerala",Mid,Internship,18,27,INR,Python; SQL; Pandas; Scikit-learn,2026-06-21
+Machine Learning Engineer,SilverOak Consulting,"Delhi, Delhi",Entry,Full-time,4,20,INR,Python; NLP; spaCy; Hugging Face,2026-07-04
+AI Engineer,Northstar Analytics,"Visakhapatnam, Andhra Pradesh",Senior,Contract,23,30,INR,Python; SQL; Pandas; Scikit-learn,2026-07-17
+Data Analyst,PrismPeak Data,"Noida, Uttar Pradesh",Junior,Full-time,13,27,INR,Python; NLP; spaCy; Hugging Face,2026-07-30
+NLP Engineer,Kaveri Data Systems,"Remote, India",Lead,Full-time,30,35,INR,Python; SQL; Pandas; Scikit-learn,2026-08-12
+Computer Vision Engineer,BlueKite AI Labs,"Ahmedabad, Gujarat",Mid,Internship,15,27,INR,Python; NLP; spaCy; Hugging Face,2026-08-25
+MLOps Engineer,CedarWave Innovations,"Bengaluru, Karnataka",Entry,Full-time,10,29,INR,Python; SQL; Pandas; Scikit-learn,2026-09-07
+Deep Learning Engineer,Meridian ML Works,"Jaipur, Rajasthan",Senior,Contract,20,30,INR,Python; NLP; spaCy; Hugging Face,2026-09-20
+Generative AI Engineer,MangoTree Digital,"Pune, Maharashtra",Junior,Full-time,10,27,INR,Python; SQL; Pandas; Scikit-learn,2026-10-03
+Business Intelligence Analyst,QuantumLeaf Solutions,"Coimbatore, Tamil Nadu",Lead,Full-time,36,44,INR,Python; NLP; spaCy; Hugging Face,2026-10-16
+Research Scientist,RedBrick Computing,"Delhi, Delhi",Mid,Full-time,12,27,INR,Python; SQL; Pandas; Scikit-learn,2026-10-29
+Data Engineer,VertexNova Systems,"Visakhapatnam, Andhra Pradesh",Entry,Full-time,7,13,INR,Python; NLP; spaCy; Hugging Face,2026-03-12
+Applied Scientist,OrbitStack Technologies,"Noida, Uttar Pradesh",Senior,Internship,26,39,INR,Python; SQL; Pandas; Scikit-learn,2026-03-25
+AI/ML Intern,AuroraEdge Digital,"Remote, India",Junior,Full-time,7,27,INR,Python; NLP; spaCy; Hugging Face,2026-04-07
+Analytics Engineer,BrightLoop Software,"Ahmedabad, Gujarat",Lead,Contract,33,44,INR,Python; SQL; Pandas; Scikit-learn,2026-04-20
+Prompt Engineer,PixelRiver AI,"Bengaluru, Karnataka",Mid,Full-time,18,36,INR,Python; NLP; spaCy; Hugging Face,2026-05-03
+ML Research Engineer,SaffronScale Technologies,"Jaipur, Rajasthan",Entry,Full-time,4,13,INR,Python; SQL; Pandas; Scikit-learn,2026-05-16
+Big Data Engineer,IndusMind AI,"Pune, Maharashtra",Senior,Internship,23,39,INR,Python; NLP; spaCy; Hugging Face,2026-05-29
+Recommendation Systems Engineer,NimbusForge Labs,"Coimbatore, Tamil Nadu",Junior,Full-time,13,20,INR,Python; SQL; Pandas; Scikit-learn,2026-06-11
+Robotics Engineer,AsterByte Technologies,"Chennai, Tamil Nadu",Lead,Contract,30,44,INR,Python; NLP; spaCy; Hugging Face,2026-06-24
+Data Scientist,PrismPeak Data,"Visakhapatnam, Andhra Pradesh",Senior,Full-time,23,28,INR,Python; SQL; Pandas; Scikit-learn,2026-07-07
+Machine Learning Engineer,Kaveri Data Systems,"Noida, Uttar Pradesh",Junior,Full-time,13,25,INR,Python; NLP; spaCy; Hugging Face,2026-07-20
+AI Engineer,BlueKite AI Labs,"Remote, India",Lead,Internship,30,49,INR,Python; SQL; Pandas; Scikit-learn,2026-08-02
+Data Analyst,CedarWave Innovations,"Ahmedabad, Gujarat",Mid,Full-time,15,25,INR,Python; NLP; spaCy; Hugging Face,2026-08-15
+NLP Engineer,Meridian ML Works,"Bengaluru, Karnataka",Entry,Contract,10,27,INR,Python; SQL; Pandas; Scikit-learn,2026-08-28
+Computer Vision Engineer,MangoTree Digital,"Jaipur, Rajasthan",Senior,Full-time,20,28,INR,Python; NLP; spaCy; Hugging Face,2026-09-10
+MLOps Engineer,QuantumLeaf Solutions,"Pune, Maharashtra",Junior,Contract,10,25,INR,Python; SQL; Pandas; Scikit-learn,2026-09-23
+Deep Learning Engineer,RedBrick Computing,"Coimbatore, Tamil Nadu",Lead,Full-time,36,42,INR,Python; NLP; spaCy; Hugging Face,2026-10-06
+Generative AI Engineer,VertexNova Systems,"Chennai, Tamil Nadu",Mid,Full-time,12,25,INR,Python; SQL; Pandas; Scikit-learn,2026-10-19
+Business Intelligence Analyst,OrbitStack Technologies,"Chandigarh, Chandigarh",Entry,Internship,7,27,INR,Python; NLP; spaCy; Hugging Face,2026-03-02
+Research Scientist,AuroraEdge Digital,"Noida, Uttar Pradesh",Senior,Full-time,26,37,INR,Python; SQL; Pandas; Scikit-learn,2026-03-15
+Data Engineer,BrightLoop Software,"Remote, India",Junior,Contract,7,25,INR,Python; NLP; spaCy; Hugging Face,2026-03-28
+Applied Scientist,PixelRiver AI,"Ahmedabad, Gujarat",Lead,Full-time,33,42,INR,Python; SQL; Pandas; Scikit-learn,2026-04-10
+AI/ML Intern,SaffronScale Technologies,"Bengaluru, Karnataka",Mid,Full-time,18,34,INR,Python; NLP; spaCy; Hugging Face,2026-04-23
+Analytics Engineer,IndusMind AI,"Jaipur, Rajasthan",Entry,Internship,4,11,INR,Python; SQL; Pandas; Scikit-learn,2026-05-06
+Prompt Engineer,NimbusForge Labs,"Pune, Maharashtra",Senior,Full-time,23,37,INR,Python; NLP; spaCy; Hugging Face,2026-05-19
+ML Research Engineer,AsterByte Technologies,"Coimbatore, Tamil Nadu",Junior,Contract,13,18,INR,Python; SQL; Pandas; Scikit-learn,2026-06-01
+Big Data Engineer,CloudHarbor Tech,"Chennai, Tamil Nadu",Lead,Full-time,30,42,INR,Python; NLP; spaCy; Hugging Face,2026-06-14
+Recommendation Systems Engineer,SilverOak Consulting,"Chandigarh, Chandigarh",Mid,Full-time,15,34,INR,Python; SQL; Pandas; Scikit-learn,2026-06-27
+Robotics Engineer,Northstar Analytics,"Gurugram, Haryana",Entry,Internship,10,20,INR,Python; NLP; spaCy; Hugging Face,2026-07-10
+Data Scientist,CedarWave Innovations,"Remote, India",Lead,Full-time,30,47,INR,Python; SQL; Pandas; Scikit-learn,2026-07-23
+Machine Learning Engineer,Meridian ML Works,"Ahmedabad, Gujarat",Mid,Internship,15,23,INR,Python; NLP; spaCy; Hugging Face,2026-08-05
+AI Engineer,MangoTree Digital,"Bengaluru, Karnataka",Entry,Full-time,10,25,INR,Python; SQL; Pandas; Scikit-learn,2026-08-18
+Data Analyst,QuantumLeaf Solutions,"Jaipur, Rajasthan",Senior,Contract,20,26,INR,Python; NLP; spaCy; Hugging Face,2026-08-31
+NLP Engineer,RedBrick Computing,"Pune, Maharashtra",Junior,Full-time,10,23,INR,Python; SQL; Pandas; Scikit-learn,2026-09-13
+Computer Vision Engineer,VertexNova Systems,"Coimbatore, Tamil Nadu",Lead,Full-time,36,56,INR,Python; NLP; spaCy; Hugging Face,2026-09-26
+MLOps Engineer,OrbitStack Technologies,"Chennai, Tamil Nadu",Mid,Internship,12,23,INR,Python; SQL; Pandas; Scikit-learn,2026-10-09
+Deep Learning Engineer,AuroraEdge Digital,"Chandigarh, Chandigarh",Entry,Full-time,7,25,INR,Python; NLP; spaCy; Hugging Face,2026-10-22
+Generative AI Engineer,BrightLoop Software,"Gurugram, Haryana",Senior,Contract,26,35,INR,Python; SQL; Pandas; Scikit-learn,2026-03-05
+Business Intelligence Analyst,PixelRiver AI,"Nagpur, Maharashtra",Junior,Full-time,7,23,INR,Python; NLP; spaCy; Hugging Face,2026-03-18
+Research Scientist,SaffronScale Technologies,"Ahmedabad, Gujarat",Lead,Full-time,33,40,INR,Python; SQL; Pandas; Scikit-learn,2026-03-31
+Data Engineer,IndusMind AI,"Bengaluru, Karnataka",Mid,Internship,18,32,INR,Python; NLP; spaCy; Hugging Face,2026-04-13
+Applied Scientist,NimbusForge Labs,"Jaipur, Rajasthan",Entry,Full-time,4,9,INR,Python; SQL; Pandas; Scikit-learn,2026-04-26
+AI/ML Intern,AsterByte Technologies,"Pune, Maharashtra",Senior,Contract,23,35,INR,Python; NLP; spaCy; Hugging Face,2026-05-09
+Analytics Engineer,CloudHarbor Tech,"Coimbatore, Tamil Nadu",Junior,Full-time,13,32,INR,Python; SQL; Pandas; Scikit-learn,2026-05-22
+Prompt Engineer,SilverOak Consulting,"Chennai, Tamil Nadu",Lead,Contract,30,40,INR,Python; NLP; spaCy; Hugging Face,2026-06-04
+ML Research Engineer,Northstar Analytics,"Chandigarh, Chandigarh",Mid,Full-time,15,32,INR,Python; SQL; Pandas; Scikit-learn,2026-06-17
+Big Data Engineer,PrismPeak Data,"Gurugram, Haryana",Entry,Full-time,10,18,INR,Python; NLP; spaCy; Hugging Face,2026-06-30
+Recommendation Systems Engineer,Kaveri Data Systems,"Nagpur, Maharashtra",Senior,Internship,20,35,INR,Python; SQL; Pandas; Scikit-learn,2026-07-13
+Robotics Engineer,BlueKite AI Labs,"Kolkata, West Bengal",Junior,Full-time,10,16,INR,Python; NLP; spaCy; Hugging Face,2026-07-26
